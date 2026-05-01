@@ -136,5 +136,5 @@ This project is configured out-of-the-box for deployment on [Railway.app](https:
 - **Backend**: Node.js, Express.js, Mongoose (MongoDB), JWT, bcryptjs, express-validator
 - **Infrastructure**: Railway (Nixpacks build system)
 
----
-*Developed with ❤️ for efficient team management.*
+
+ 
